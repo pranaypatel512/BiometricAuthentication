@@ -1,4 +1,4 @@
-# Jetpack Compose Biometric Authentication Example
+# Android Biometric Authentication Example
 
 This repository demonstrates how to implement **Biometric Authentication** in an Android application using **Jetpack Compose**. It showcases the integration of the [`BiometricPrompt`](https://developer.android.com/reference/androidx/biometric/package-summary) API with Compose to provide a modern, user-friendly way to secure access to your app.
 
