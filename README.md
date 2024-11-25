@@ -33,7 +33,7 @@ The project includes:
 3. Build and run the project on a compatible device or emulator.
 
 ## How It Works
-`. The app checks if biometric authentication is available on the device using the BiometricManager API.
+1. The app checks if biometric authentication is available on the device using the BiometricManager API.
 2. When the "Authenticate" button is clicked:
  * A BiometricPrompt dialog appears.
  * Users authenticate using their biometric credentials.
